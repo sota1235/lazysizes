@@ -12,7 +12,7 @@ It may become also your number one tool to integrate responsive images. It can a
     <script src="lazysizes.min.js" async=""></script>
     ```
     
-    Or:
+    Or:sadfasdfjadfka
 	```js
 	import 'lazysizes';
 	// import a plugin
